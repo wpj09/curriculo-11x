@@ -1,0 +1,181 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-C1-XIpUa.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/css/curriculum.css": {
+    "file": "assets/curriculum-C1je7r6B.css",
+    "src": "resources/views/admin/assets/css/curriculum.css",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/css/fonts/upadmin.eot": {
+    "file": "assets/upadmin-CRcGo1B_.eot",
+    "src": "resources/views/admin/assets/css/fonts/upadmin.eot"
+  },
+  "resources/views/admin/assets/css/fonts/upadmin.svg": {
+    "file": "assets/upadmin-CrdEWufV.svg",
+    "src": "resources/views/admin/assets/css/fonts/upadmin.svg"
+  },
+  "resources/views/admin/assets/css/fonts/upadmin.ttf": {
+    "file": "assets/upadmin-BuUNppkW.ttf",
+    "src": "resources/views/admin/assets/css/fonts/upadmin.ttf"
+  },
+  "resources/views/admin/assets/css/fonts/upadmin.woff": {
+    "file": "assets/upadmin-A-uZOIAe.woff",
+    "src": "resources/views/admin/assets/css/fonts/upadmin.woff"
+  },
+  "resources/views/admin/assets/images/icons/bathtub.png": {
+    "file": "assets/bathtub-Q03OKUFy.png",
+    "src": "resources/views/admin/assets/images/icons/bathtub.png"
+  },
+  "resources/views/admin/assets/images/icons/bed.png": {
+    "file": "assets/bed-HZddbFFP.png",
+    "src": "resources/views/admin/assets/images/icons/bed.png"
+  },
+  "resources/views/admin/assets/images/icons/garage.png": {
+    "file": "assets/garage-B0FEYNiQ.png",
+    "src": "resources/views/admin/assets/images/icons/garage.png"
+  },
+  "resources/views/admin/assets/images/icons/location.png": {
+    "file": "assets/location-DdkCecl9.png",
+    "src": "resources/views/admin/assets/images/icons/location.png"
+  },
+  "resources/views/admin/assets/images/icons/total-area.png": {
+    "file": "assets/total-area-CZgfL12L.png",
+    "src": "resources/views/admin/assets/images/icons/total-area.png"
+  },
+  "resources/views/admin/assets/images/icons/util-area.png": {
+    "file": "assets/util-area-lnnvvw-w.png",
+    "src": "resources/views/admin/assets/images/icons/util-area.png"
+  },
+  "resources/views/admin/assets/images/login.svg": {
+    "file": "assets/login-BFhlnKXU.svg",
+    "src": "resources/views/admin/assets/images/login.svg"
+  },
+  "resources/views/admin/assets/images/selectarrow.png": {
+    "file": "assets/selectarrow-bTwsg1x4.png",
+    "src": "resources/views/admin/assets/images/selectarrow.png"
+  },
+  "resources/views/admin/assets/js/datatables/css/jquery.dataTables.min.css": {
+    "file": "assets/jquery.dataTables-ClipZbqw.css",
+    "src": "resources/views/admin/assets/js/datatables/css/jquery.dataTables.min.css",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/datatables/css/responsive.dataTables.min.css": {
+    "file": "assets/responsive.dataTables-gHZytnpD.css",
+    "src": "resources/views/admin/assets/js/datatables/css/responsive.dataTables.min.css",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/datatables/images/sort_asc.png": {
+    "file": "assets/sort_asc-B4Gje4tW.png",
+    "src": "resources/views/admin/assets/js/datatables/images/sort_asc.png"
+  },
+  "resources/views/admin/assets/js/datatables/images/sort_asc_disabled.png": {
+    "file": "assets/sort_asc_disabled-CJD3ufk-.png",
+    "src": "resources/views/admin/assets/js/datatables/images/sort_asc_disabled.png"
+  },
+  "resources/views/admin/assets/js/datatables/images/sort_both.png": {
+    "file": "assets/sort_both-BgEUlDF2.png",
+    "src": "resources/views/admin/assets/js/datatables/images/sort_both.png"
+  },
+  "resources/views/admin/assets/js/datatables/images/sort_desc.png": {
+    "file": "assets/sort_desc-CY-iuP5X.png",
+    "src": "resources/views/admin/assets/js/datatables/images/sort_desc.png"
+  },
+  "resources/views/admin/assets/js/datatables/images/sort_desc_disabled.png": {
+    "file": "assets/sort_desc_disabled-Ce0Saquh.png",
+    "src": "resources/views/admin/assets/js/datatables/images/sort_desc_disabled.png"
+  },
+  "resources/views/admin/assets/js/datatables/js/dataTables.responsive.min.js": {
+    "file": "assets/dataTables.responsive.min-uDdCQFnC.js",
+    "name": "dataTables.responsive.min",
+    "src": "resources/views/admin/assets/js/datatables/js/dataTables.responsive.min.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/datatables/js/jquery.dataTables.min.js": {
+    "file": "assets/jquery.dataTables.min-__rZEadC.js",
+    "name": "jquery.dataTables.min",
+    "src": "resources/views/admin/assets/js/datatables/js/jquery.dataTables.min.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/jquery.form.js": {
+    "file": "assets/jquery.form-HAbkfPbV.js",
+    "name": "jquery.form",
+    "src": "resources/views/admin/assets/js/jquery.form.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/jquery.mask.js": {
+    "file": "assets/jquery.mask-D-uWGnvg.js",
+    "name": "jquery.mask",
+    "src": "resources/views/admin/assets/js/jquery.mask.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/jquery.min.js": {
+    "file": "assets/jquery.min-DwnxU6IY.js",
+    "name": "jquery.min",
+    "src": "resources/views/admin/assets/js/jquery.min.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/login.js": {
+    "file": "assets/login-CeajULVn.js",
+    "name": "login",
+    "src": "resources/views/admin/assets/js/login.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/scripts.js": {
+    "file": "assets/scripts-DroYzV24.js",
+    "name": "scripts",
+    "src": "resources/views/admin/assets/js/scripts.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/select2/css/select2.min.css": {
+    "file": "assets/select2-DIQ2roSY.css",
+    "src": "resources/views/admin/assets/js/select2/css/select2.min.css",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/select2/js/i18n/pt-BR.js": {
+    "file": "assets/pt-BR-CMmvCcjx.js",
+    "name": "pt-BR",
+    "src": "resources/views/admin/assets/js/select2/js/i18n/pt-BR.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/js/select2/js/select2.min.js": {
+    "file": "assets/select2.min-BZ5WUubz.js",
+    "name": "select2.min",
+    "src": "resources/views/admin/assets/js/select2/js/select2.min.js",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/scss/boot.scss": {
+    "file": "assets/boot-CMLn8T3X.css",
+    "src": "resources/views/admin/assets/scss/boot.scss",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/scss/home.scss": {
+    "file": "assets/home-DlXRAhO8.css",
+    "src": "resources/views/admin/assets/scss/home.scss",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/scss/login.scss": {
+    "file": "assets/login-CXuqNN7i.css",
+    "src": "resources/views/admin/assets/scss/login.scss",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/scss/reset.scss": {
+    "file": "assets/reset-Dhzo7H3b.css",
+    "src": "resources/views/admin/assets/scss/reset.scss",
+    "isEntry": true
+  },
+  "resources/views/admin/assets/scss/style.scss": {
+    "file": "assets/style-D4LXG5ZQ.css",
+    "src": "resources/views/admin/assets/scss/style.scss",
+    "isEntry": true
+  }
+}
